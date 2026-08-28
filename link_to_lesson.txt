@@ -1,1 +1,5 @@
+YouTube Lesson:
 https://youtu.be/wDmPgXhlDIg?si=QFI4GVictGFkI_gy
+
+GitHub Repo:
+https://github.com/jjoskey/python_beginners_course
