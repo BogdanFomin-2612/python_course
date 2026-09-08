@@ -12,3 +12,7 @@ people = [
 
 min_people = min(people, key=lambda x: (x["age"], x["name"]))
 print(min_people)
+
+
+
+#! ЗАКОНЧИЛ НА 03:38:17
